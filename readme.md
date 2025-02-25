@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piyali Sarkar</h1>
+<h1 align="center">Hi 👋, I'm Piyali</h1>
 <h3 align="center">I'm a dedicated Frontend Developer with a flair for creating sleek, responsive, and engaging web applications. Currently on a journey to become a Full Stack Developer, I love tackling complex challenges using JavaScript, React, and the latest web technologies. I’m passionate about clean code, intuitive interfaces, and always look for ways to elevate my skills. Thriving in collaborative settings, I believe that great ideas come to life through teamwork. Let’s create something extraordinary together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarkarpiyali&label=Profile%20views&color=0e75b6&style=flat" alt="sarkarpiyali" /> </p>
